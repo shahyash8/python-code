@@ -1,0 +1,11 @@
+PREDICATE_TYPE = {
+				'FACT':1,
+				'CLAUSE':2,
+				'PREDICATE':3,
+				'QUERY':4,
+				'EMPTY':5
+}
+
+ARGS_BASE_STR = 'arg_'
+VALID_RULE = 'TRUE'
+INVALID_RULE = 'FALSE'
